@@ -3,7 +3,7 @@
 
 - 🔭 Obecnie pracuję nad projektem: [Mapa eventów](https://strojekmikolaj.github.io/Event-Map---API/)
 
-- 📝 Pozostałe projekty:
+- 📝 Pozostałe projekty:<br/>
     [Aplikacja pogodowa](https://strojekmikolaj.github.io/Weather-API/)
 
 - 🌱 Chcę nauczyć się: **React, TypeScript**
