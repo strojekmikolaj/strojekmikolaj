@@ -6,7 +6,7 @@
 - 📝 Pozostałe projekty:<br/>
     [Aplikacja pogodowa](https://strojekmikolaj.github.io/Weather-API/)
 
-- 🌱 Chcę nauczyć się: **React, TypeScript**
+- 🌱 Chcę nauczyć się: **React, SCSS**
 
 - 💬 Obecnie szukam pracy/stażu jako **Front-End Developer**
 
