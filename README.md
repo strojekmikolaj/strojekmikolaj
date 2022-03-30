@@ -4,7 +4,8 @@
 - 🔭 Obecnie pracuję nad projektem: [Mapa eventów](https://strojekmikolaj.github.io/Event-Map---API/)
 
 - 📝 Pozostałe projekty:<br/>
-    [Aplikacja pogodowa](https://strojekmikolaj.github.io/Weather-API/)
+    [Aplikacja pogodowa](https://strojekmikolaj.github.io/Weather-API/)<br/>
+    [Algorytm ruchów szachów](https://strojekmikolaj.github.io/Chess-pieces-algorithm/)
 
 - 🌱 Chcę nauczyć się: **React, SCSS**
 
