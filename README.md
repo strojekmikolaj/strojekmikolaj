@@ -7,7 +7,7 @@
     [Aplikacja pogodowa](https://strojekmikolaj.github.io/Weather-API/)<br/>
     [Algorytm ruchów szachów](https://strojekmikolaj.github.io/Chess-pieces-algorithm/)
 
-- 🌱 Chcę nauczyć się: **React, SCSS**
+- 🌱 Chcę nauczyć się: **React**
 
 - 💬 Obecnie szukam pracy/stażu jako **Front-End Developer**
 
