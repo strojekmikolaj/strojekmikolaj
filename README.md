@@ -1,7 +1,7 @@
 <h1 align="center">Cześć 👋, jestem Mikołaj</h1>
 <h3 align="center">Junior Angular Developer 🅰️</h3>
 
-- 🔭 Obecnie pracuję nad projektem dla Ministerstwa Finansów
+- 🔭 Obecnie pracuję dla EksLibris
 
 - 🌱 Ostatnia wrzutka: [Nauka obsługi sygnałów w Angularze 16 pisząć TODO List](https://github.com/strojekmikolaj/todos-with-signals)
 
